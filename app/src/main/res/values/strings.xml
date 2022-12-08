@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Fragments Transaction</string>
+    <string name="add">Добавить</string>
+    <string name="replace">Заменить</string>
+    <string name="remove">Удалить</string>
+    <string name="add_to_back_stack">Добавлять в BackStack</string>
+</resources>
